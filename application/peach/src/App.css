@@ -1,0 +1,8 @@
+section{
+  border: 0;
+  border-style: solid;
+  border-radius: 2rem;
+  background: rgb(73, 73, 73);
+  outline:none;
+  padding-bottom: 5rem;
+}
