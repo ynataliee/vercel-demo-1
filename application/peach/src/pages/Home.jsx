@@ -6,7 +6,7 @@ function Home(){
     return(
         <>
             <div className="home-container">
-                <h1>Peach</h1>
+                <h1>Peach ugfaliwyregfoaiyewg</h1>
                 <h2 onClick={() => navigate('/TestInterests')}>Test Interests Tag</h2>
             </div>
         </>
